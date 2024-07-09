@@ -103,7 +103,7 @@ app.delete("/delete/:id", async(req,res) => {
 })
 
 
-mongoose.connect("mongodb+srv://sanilsandeep:sanil2002@accountmanagement.ft6ocvp.mongodb.net/accountmanagement?retryWrites=true&w=majority")
+mongoose.connect("mongodb+srv://sanilsandeep:sanil002200@accountmanagement.ft6ocvp.mongodb.net/accountmanagement?retryWrites=true&w=majority")
     .then(() => {
         console.log("Connected to database");
         app.listen(PORT, () => console.log("Server is running"));
