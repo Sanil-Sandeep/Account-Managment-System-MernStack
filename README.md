@@ -2,7 +2,7 @@
 
 
 
-please before fun the program extract nodemodule zip file inside the client file
+please before run the program extract nodemodule zip file inside the client file
 
 
 run for server(backend) => npm run dev <br><br>
